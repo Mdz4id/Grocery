@@ -4,9 +4,12 @@
     align-items: center;
     padding: 8px 4%;
 }
-.navbar .logo{
-    width: max(10%,80px);
+.logo{
+    font-size: 50px;
+    width: 200px;
+    color: rgb(66, 137, 199);
+    font-family:'Times New Roman', Times, serif;
 }
 .navbar .profile{
-    width: 40px;
+    width: 50px;
 }

@@ -8,6 +8,12 @@
     padding: 20px 8vw;
     padding-top: 80px;
 }
+.footer .logo{
+    font-size: 50px;
+    width: 200px;
+    color: rgb(66, 137, 199);
+    font-family:'Times New Roman', Times, serif;
+}
 .footer-content{
     width: 100%;
     display: grid;
